@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on work, or Wikipedia projects
 - 📫 How to reach me: discord ed#6767
 - 😄 Pronouns: he/him
-- See also my GitLab: 
+- See also my GitLab: https://gitlab.com/ed_e
