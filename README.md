@@ -9,5 +9,5 @@
 
 - 🔭 I’m currently working on work, or Wikipedia projects
 - 📫 How to reach me: discord ed#6767
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him or they/them
 - See also my GitLab: https://gitlab.com/ed_e
