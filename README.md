@@ -1,4 +1,13 @@
-### Hi there 👋
-My name is Ed :)  
+### Ed Englefield
+DevOps engineer at UK ESFA. Managing Director at 6767 Ltd.  
 
+#### Contact me
+**DfE colleages:** If you need a PR or Production Change, the quickest way to reach out to me is via Slack: https://ukgovernmentdfe.slack.com/team/U066Q54BE0K  
+**Everyone else:** email ed@6767.ltd
+
+
+#### Open Source ESFA Projects
+If you'd like to contribute to our open source efforts, open a Pull Request or Issue on GitHub. I'm happy to review any issues raised and move them to our internal platforms. Please see the contributing process on each repository. For a review, just ping me on GitHub by assigining the issue to myself.
+
+#### Everything else
 If you want to read about me professionally or want to see a portfolio, see my LinkedIn: https://www.linkedin.com/in/ed-englefield/
