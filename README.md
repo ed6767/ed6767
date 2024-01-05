@@ -1,9 +1,9 @@
 ### Ed Englefield
-DevOps engineer at UK ESFA. Managing Director at 6767 Ltd.  
+DevOps engineer at UK ESFA.
 
 #### Contact me
 **DfE colleages:** If you need a PR or Production Change, the quickest way to reach out to me is via Slack: https://ukgovernmentdfe.slack.com/team/U066Q54BE0K  
-**Everyone else:** email ed@6767.ltd
+**Everyone else:** email ed6767wiki@gmail.com
 
 
 #### Open Source ESFA Projects
